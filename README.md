@@ -1,6 +1,6 @@
 # Flowchart Maker Python
 
-# Flowchart Maker Python is a simple and intuitive tool for creating flowcharts using Python and Tkinter. With this application, you can easily visualize processes, decisions, and connections in your flowcharts.
+ Flowchart Maker Python is a simple and intuitive tool for creating flowcharts using Python and Tkinter. With this application, you can easily visualize processes, decisions, and connections in your flowcharts.
 
 ## Features
 - Draw rectangles, diamonds, and arrows to represent different elements in your flowchart.
